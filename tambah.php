@@ -32,6 +32,7 @@ if (isset($_POST['submit'])) {
 <body>
     <a href="index.php">Back</a>
 
+    <h1>Tambah Produk</h1>
     <form action="" method="post">
         <ul>
             <li>

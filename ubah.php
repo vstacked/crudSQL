@@ -36,6 +36,7 @@ if (isset($_POST['submit'])) {
 <body>
     <a href="index.php">Back</a>
 
+    <h1>Ubah Produk</h1>
     <form action="" method="post">
         <input type="hidden" name="id" id="id" value="<?= $data['id'] ?>">
 
